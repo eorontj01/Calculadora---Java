@@ -7,6 +7,10 @@ Minha primeira calculadora desenvolvida em Java utilizando o NetBeans.
 Projeto desenvolvido como parte dos meus estudos de Java e lógica de programação.
 
 A calculadora possui operações matemáticas básicas e algumas operações adicionais.
+## 🖥️ Demonstração
+
+![Calculadora Java](image.png)
+
 
 ## ⚙️ Funcionalidades
 
